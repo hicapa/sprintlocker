@@ -1,2 +1,3 @@
-# sprintlocker
-A tool that allows you to get the discriminator of your dreams (on discord)
+# sprintlocker by hicapabex
+because why pay for nitro?
+### introduction
